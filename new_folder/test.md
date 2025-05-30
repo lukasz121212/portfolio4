@@ -1,4 +1,4 @@
-![test](test.jpg)
+[test](test.jpg)
 
 
 > [!NOTE]
