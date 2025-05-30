@@ -1,4 +1,4 @@
-![test](./new_folder/test.jpg)
+![test](/test.jpg)
 
 
 > [!NOTE]
